@@ -1,0 +1,22 @@
+Alex Kumar - Lead DevOps & Cloud Systems Architect
+Email: alex.kumar@email.com | Phone: +1-555-0203 | Location: Seattle, WA
+LinkedIn: https://linkedin.com/in/alex-kumar | GitHub: https://github.com/alexkumar
+
+PROFESSIONAL SUMMARY
+Senior DevOps engineer with 7.0 years of experience in cloud infrastructure automation, CI/CD pipelines, container orchestration with Kubernetes, and Linux administration.
+
+EDUCATION
+Bachelor of Science in Information Technology - University of Washington (2013 - 2017)
+
+TECHNICAL SKILLS
+Docker, Kubernetes, AWS, Linux, Terraform, Jenkins, CI/CD Pipelines, Python, Git
+
+WORK EXPERIENCE
+Lead DevOps Engineer at ScaleOps Global (2021 - Present)
+- Managed multi-region Kubernetes clusters on AWS EKS with 99.99% uptime.
+- Built automated declarative CI/CD pipelines reducing deployment times by 65%.
+
+Cloud Infrastructure Engineer at CloudSphere Technologies (2017 - 2021)
+- Provisioned AWS resources using Terraform.
+- Automated server configurations with Linux shell scripts.
+
